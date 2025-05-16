@@ -6,7 +6,7 @@
 
 <p align="center">
   🚀 <b>Simple | Powerful | Stylish</b> <br>
-  🔥 Telegram Userbot built with passion & chaos 😈
+  🔥 Telegram Userbot 😍k
 </p>
 
 <p align="center">
@@ -45,7 +45,7 @@
 ```bash
 pkg update && pkg upgrade
 pkg install python git -y
-git clone https://github.com/username/peex-userbot
+git clone https://github.com/pallset/peex-userbot
 cd peex-userbot
 pip install -r requirements.txt
 python main.py
