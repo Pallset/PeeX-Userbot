@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG45a2hiZndndDhsMHZ0eDhrYXhzYjd3Z2pkMXR6b3hrcXRsb3hqNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Pe0QK5xAI4YcE/giphy.gif" width="300"/>
+  <img src="https://files.catbox.moe/koxx7d.gif" width="300"/>
 </p>
 
 ---
